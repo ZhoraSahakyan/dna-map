@@ -1,0 +1,9 @@
+/*svg {*/
+/*    transform: scale(0.5) translate(-1000px , -214px);*/
+/*}*/
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
